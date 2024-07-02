@@ -21,7 +21,7 @@ A collection of web animations using HTML, CSS, and React components. This libra
 
 ```bash
 npm install web-animations-library
-
+```
 # Manual Download (for HTML/CSS)
 
 ## Download the repository and include the CSS and HTML files in your project.
@@ -32,7 +32,7 @@ npm install web-animations-library
 
 ```html
 <link rel="stylesheet" href="path/to/animations.css">
-
+```
 **Use the HTML structure for the desired animation from the examples provided in the repository.**
 
 ## React Components
@@ -51,7 +51,7 @@ function App() {
 }
 
 export default App;
-
+```
 
 # Animations
 
