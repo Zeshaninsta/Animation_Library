@@ -30,15 +30,16 @@ npm install web-animations-library
 
 ## Include the CSS file in your HTML file:
 
-```bash
+```html
 <link rel="stylesheet" href="path/to/animations.css">
-```
+
 **Use the HTML structure for the desired animation from the examples provided in the repository.**
 
 ## React Components
 
 **Import the desired component and use it in your React project:**
 
+```jsx
 import { LoadingSpinner } from 'web-animations-library';
 
 function App() {
@@ -50,6 +51,7 @@ function App() {
 }
 
 export default App;
+
 
 # Animations
 
